@@ -1,0 +1,5 @@
+__pycache__
+*.avi
+*.mp4
+runs/
+logs/
